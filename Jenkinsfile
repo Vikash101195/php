@@ -1,7 +1,7 @@
 pipeline{
   agent any
   environment{
-	imagename = "249408/php"
+	imagename = "vikky10/php"
 	dockerImage = ''
   }
 	  stages{
